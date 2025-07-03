@@ -1,7 +1,7 @@
 for task 7
 
-reviewed eevry extension and it's permissions installed 
+reviewed every extension and its permissions installed 
 
-removed an unnecessary extension that is not used
+Removed an unnecessary extension that is not used
 
 researched how malicious extensions can harm a user
