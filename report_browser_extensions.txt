@@ -1,0 +1,58 @@
+My Extensions:
+Browsec VPN
+Grammarly
+Privacy Badger
+uBlock Origin
+Video Download Helper
+
+
+Permissions for Browsec VPN:
+    Access your data for all websites
+    Read and modify privacy settings
+    Control browser proxy settings
+    Access browser tabs
+
+Permissions for Grammarly:
+    Access your data for all websites
+    Display notifications to you
+    Access browser tabs
+
+Permissions for Privacy Badger:
+    Access your data for all websites
+    Read and modify privacy settings
+    Access browser tabs
+    Access browser activity during navigation
+
+Permissions for uBlock Origin:
+    Access your data for all websites
+    Read and modify privacy settings
+    Access browser tabs
+    Access browser activity during navigation
+
+Permissions for Video DownloadHelper:
+    Access your data for all websites
+    Exchange messages with programs other than Firefox
+    Download files and read and modify the browser’s download history
+    Display notifications to you
+    Access browser tabs
+    Access browser activity during navigation
+
+I don't believe these permissions are out of scope for these extensions as they need to work flawlessly and correctly.
+
+I have checked reviews for each etension and all these are legitimate extensions that are made for simplifying and enhancing my work.
+There is no shady or suspicious extension in my browser.
+
+The unused one would be VideoDownload Helper as i don't download videos much from the internet.
+
+After removing the extension and restarting the browser i did not see any visual improvement for the browser or my device.
+I also checked witht the task manager and the browser has similar percventage of cpu and the memory being used.
+
+
+
+Malicious extensions can harm users by logging he information they can access in the browser and sell it to data brokers which may then accelerate 
+to being sold on the dark web or to advertising companies for pop up ads.
+if the extension can have a permission that lets someone else remotely log in to your device and the user does not check for that permission and installs
+the extension anyway, it can give away control of the device to the malicious agent.
+f an extension is allowed to access all the web pages that the user visits, the user could be opening the door to malicious attacks. 
+It could function as a keylogger and capture sensitive information, insert advertisements, 
+redirect the search traffic to malicious sites, etc.
